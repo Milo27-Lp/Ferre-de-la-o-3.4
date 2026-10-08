@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Gear (Dark Steel & Cyan Blue accent) -->
+    <path
+        android:fillColor="#24496B"
+        android:pathData="M54,30 L57.5,30 L58.2,34.5 L62.5,36.3 L66.3,33.5 L68.8,36 L66,39.8 L67.8,44.1 L72.3,44.8 L72.3,48.3 L67.8,49 L66,53.3 L68.8,57.1 L66.3,59.6 L62.5,56.8 L58.2,58.6 L57.5,63.1 L54,63.1 L53.3,58.6 L49,56.8 L45.2,59.6 L42.7,57.1 L45.5,53.3 L43.7,49 L39.2,48.3 L39.2,44.8 L43.7,44.1 L45.5,39.8 L42.7,36 L45.2,33.5 L49,36.3 L53.3,34.5 Z" />
+    
+    <!-- Gear center hole -->
+    <path
+        android:fillColor="#0A1C2E"
+        android:pathData="M54,46.5m-7.5,0a7.5,7.5 0,1,1 15,0a7.5,7.5 0,1,1 -15,0" />
+
+    <!-- Secondary Gear / Ratchet (Gold / Orange teeth on right side) -->
+    <path
+        android:fillColor="#E67E22"
+        android:pathData="M65,42 C71.6,42 77,47.4 77,54 C77,60.6 71.6,66 65,66 C63.5,66 62.1,65.7 60.8,65.2 L63.5,61.8 C64,62 64.5,62 65,62 C69.4,62 73,58.4 73,54 C73,49.6 69.4,46 65,46 C64.5,46 64,46 63.5,46.2 L60.8,42.8 C62.1,42.3 63.5,42 65,42 Z" />
+
+    <!-- Crossed Blue Wrench (Diagonal 45 deg, bottom-left to top-right) -->
+    <!-- Handle -->
+    <path
+        android:fillColor="#3498DB"
+        android:pathData="M33,69 L39,75 L67,47 L61,41 Z" />
+    <!-- Lower Wrench Open Head -->
+    <path
+        android:fillColor="#2980B9"
+        android:pathData="M34,68 C31,65 26,67 25,71 C24,75 27,79 31,80 C35,81 39,77 39,73 L34,68 Z" />
+    <!-- Upper Wrench Open Head -->
+    <path
+        android:fillColor="#5DADE2"
+        android:pathData="M65,37 C63,33 64,28 68,26 C72,24 77,26 79,30 C81,34 78,39 74,40 C72,40 70,39 69,38 L65,42 L62,39 L65,37 Z" />
+    <path
+        android:fillColor="#1B4F72"
+        android:pathData="M70,30 C71,31 72,31 73,30 L76,33 C74,35 72,35 70,33 Z" />
+
+    <!-- Crossed Orange Claw Hammer (Diagonal, bottom-right to top-left) -->
+    <!-- Hammer Handle (Wood / Orange tone) -->
+    <path
+        android:fillColor="#F39C12"
+        android:pathData="M71,71 L75,67 L47,39 L43,43 Z" />
+    <!-- Hammer Grip Base -->
+    <path
+        android:fillColor="#D35400"
+        android:pathData="M70,70 L76,76 L78,74 L72,68 Z" />
+    <!-- Hammer Head (Steel Orange Metallic) -->
+    <path
+        android:fillColor="#E67E22"
+        android:pathData="M41,41 L36,36 L34,38 L36,44 L40,44 Z" />
+    <!-- Hammer Claw (Curved) -->
+    <path
+        android:fillColor="#D35400"
+        android:pathData="M42,35 C42,30 38,26 33,26 C35,29 36,33 35,36 L40,36 Z" />
+    <!-- Hammer Striking Face -->
+    <path
+        android:fillColor="#FAD7A0"
+        android:pathData="M45,38 L48,35 L45,32 L42,35 Z" />
+
+    <!-- Central Nut / Hub (Silver metallic) -->
+    <path
+        android:fillColor="#ECF0F1"
+        android:pathData="M54,50 L57.5,52 L57.5,56 L54,58 L50.5,56 L50.5,52 Z" />
+    <path
+        android:fillColor="#2C3E50"
+        android:pathData="M54,52m-2,0a2,2 0,1,1 4,0a2,2 0,1,1 -4,0" />
+
+</vector>
